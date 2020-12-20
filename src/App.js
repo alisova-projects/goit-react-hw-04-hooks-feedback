@@ -1,4 +1,3 @@
-import react from 'react';
 import Section from './components/Feedback/Section';
 import Feedback from './components/Feedback/Feedback';
 
